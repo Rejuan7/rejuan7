@@ -2,10 +2,10 @@
 
 
 <p>Welcome to my page! </br> I'm Rejuan, Frontend developer from Tangail, Bangladesh, currently living in Dhaka, Bangladesh. </p>
-<p>
-  <img alt="" src="![image](https://github.com/Rejuan7/rejuan7/assets/146606152/dbdf3f9b-595a-4b8d-81d4-6c2c22cfa07c)
+
+<img alt="" src="![image](https://github.com/Rejuan7/rejuan7/assets/146606152/dbdf3f9b-595a-4b8d-81d4-6c2c22cfa07c)
 " />
-</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
