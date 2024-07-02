@@ -2,6 +2,9 @@
 
 
 <p>Welcome to my page! </br> I'm Rejuan, Frontend developer from Tangail, Bangladesh, currently living in Dhaka, Bangladesh. </p>
+<p>
+  <img alt="" src="https://www.canva.com/design/DAGJzCi2lUM/iqMJYqGxG5Kx_bd2dksmiA/edit?utm_content=DAGJzCi2lUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -26,7 +29,6 @@
 
 # Current Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rejuan7&theme=dark)](https://git.io/streak-stats) 
-
 
 
 # Current Overview
