@@ -3,6 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Rejuan, Frontend developer from Tangail, Bangladesh, currently living in Dhaka, Bangladesh. </p>
 
+<img src="https://github.com/Rejuan7/rejuan7/assets/146606152/dbdf3f9b-595a-4b8d-81d4-6c2c22cfa07c" alt="Your Image">
 [image](https://github.com/Rejuan7/rejuan7/assets/146606152/dbdf3f9b-595a-4b8d-81d4-6c2c22cfa07c)
 
 
