@@ -16,27 +16,26 @@
 
  I'm a fresher web developer passionate about building seamless and engaging web experiences.
 
-## About Me
+# About Me
 - **Name:** Rejuan
 - **Profession:** Fresher Web Developer
 
-## Skills and Interests
+# Skills and Interests
 - **Front-end Development:** HTML, CSS, JavaScript
 - **Frameworks:** Basic knowledge of React
 - **Learning Interests:** Back-end development, databases, new web technologies
 
-## Current Status
+# Current Status
 - Actively seeking opportunities to gain practical experience in web development.
 - Working on personal projects to build a strong portfolio and demonstrate coding skills.
 - Exploring online courses and tutorials to enhance technical knowledge.
 
-## Goals
+# Goals
 - Secure a position as a junior web developer in a dynamic team where growth and learning are encouraged.
 - Develop full-stack capabilities and contribute to meaningful projects.
 - Specialize in a particular area of web development, such as front-end design or back-end systems.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rejuan7&theme=dark)](https://git.io/streak-stats)
-<h3> </h3>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rejuan7&theme=dark)](https://git.io/streak-stats) 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Rejuan7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rejuan-ahmmed-22a6b22a6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
