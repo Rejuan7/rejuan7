@@ -3,7 +3,8 @@
 
 <p>Welcome to my page! </br> I'm Rejuan, Frontend developer from Tangail, Bangladesh, currently living in Dhaka, Bangladesh. </p>
 <p>
-  <img alt="" src="https://www.canva.com/design/DAGJzCi2lUM/iqMJYqGxG5Kx_bd2dksmiA/edit?utm_content=DAGJzCi2lUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+  <img alt="" src="![image](https://github.com/Rejuan7/rejuan7/assets/146606152/dbdf3f9b-595a-4b8d-81d4-6c2c22cfa07c)
+" />
 </p>
 <h3>Things I code with</h3>
 <p>
