@@ -17,6 +17,7 @@
 <p><a href="https://github.com/Rejuan7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rejuan-ahmmed-22a6b22a6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+# Current Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rejuan7&theme=dark)](https://git.io/streak-stats) 
 
 
